@@ -1,3 +1,3 @@
 FROM nginx
-COPY randome-quote-generator /usr/share/nginx/html
+COPY random-quote-generator /usr/share/nginx/html
 EXPOSE 8080
